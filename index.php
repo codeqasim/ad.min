@@ -2,7 +2,10 @@
   $page_name = "Dashboard";
   include "partials/_header.php";
   include "partials/_menu.php";
-?>                                 
+
+ echo phpinfo();
+?>
+
 
 <main role="main" class="container-fluid">
 
